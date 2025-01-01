@@ -66,7 +66,7 @@ export default function Contact() {
               </div>
               <div className="flex items-center">
                 <MapPin className="h-6 w-6 text-green-600" />
-                <span className="ml-3 text-gray-600">123 Green Street, Nairobi, Kenya</span>
+                <span className="ml-3 text-gray-600">Monrovia Lane, Nairobi, Kenya</span>
               </div>
             </div>
           </div>
